@@ -30,8 +30,14 @@ My goal is to build systems that are useful in the real world, not just impressi
 ## Tech Stack
 
 Languages: Python, Java, C 
+
 Frontend: React, HTML, CSS
+
 Backend: Node.js
+
 AI/ML: Python, scikit-learn, pandas, NumPy
+
 Databases: SQL, MongoDB
+
 Tools: Git, GitHub, GitHub Actions, VS Code
+
