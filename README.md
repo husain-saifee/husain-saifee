@@ -41,3 +41,26 @@ Databases: SQL, MongoDB
 
 Tools: Git, GitHub, GitHub Actions, VS Code
 
+##  Roadmap
+2026 Goals:
+- Launch my startup MVP
+- Build 3 polished open-source projects
+- Publish technical case studies
+- Contribute to serious open-source projects
+- Build a visible founder engineering brand
+
+  
+## Operating Principles
+Build useful products
+Ship consistently
+Document clearly
+Keep learning in public
+Turn experiments into real systems
+
+
+## Contact
+I am open to conversations around startups, AI products, software engineering, and open-source collaboration.
+
+GitHub: https://github.com/husain-saifee
+Linkedin: https://www.linkedin.com/in/hussain-saifee-53ba88317/
+
